@@ -1,7 +1,7 @@
 nome = 'Lucas'
 sobrenome = 'Silveira'
-idade = 20
-ano_nascimento = 2005
+idade = 21
+ano_nascimento = 2026 - idade
 maior_de_idade = idade >= 18
 altura_metros = 1.84
 
